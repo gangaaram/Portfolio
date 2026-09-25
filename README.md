@@ -11,7 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-| 💡 [SQL 50 LeetCode - Ongoing](https://github.com/gangaaram/sql-50-leet-code) | Data Analysis, Data Cleaning, Data Transformation | This repo contains my solutions to the SQL 50 LeetCode problems. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving. |
+| 💡 [SQL 50 LeetCode](https://github.com/gangaaram/sql-50-leet-code) | Data Analysis, Data Cleaning, Data Transformation | This repo contains my solutions to the SQL 50 LeetCode problems. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving. |
 
 ***
 
