@@ -6,6 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Data Engineering](#data-engineering)
+- [Data Visualisation](#data-visualisation)
 
 # SQL
 
@@ -29,3 +30,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Languages |
 |---|---|---|---|
 | 🚗 [Carpark Availability Data Pipeline](https://github.com/gangaaram/carpark-availability-pipeline/blob/main/README.md) | Real-time Data Pipeline, Data Warehouse, ETL | This is a carpark data application I created using [data.gov.sg's API](https://data.gov.sg/datasets/d_ca933a644e55d34fe21f28b8052fac63/view#GET/transport/carpark-availability). Users can check carpark availability across Singapore with live data refreshed every minute. Python code running on GCP ingests the data into BigQuery, where data enrichment is performed through SQL joins. The processed data is then visualised through a front-end UI. | Python, SQL |
+
+# Data Visualisation
+
+| Project Link | Description |
+|---|---|
+| 📊 [Online Retail Data Case Study Visualisation](https://public.tableau.com/app/profile/gangaaram.raguapthy/viz/CustomerRetailDataVisualisation/Dashboard1) | Interactive analysis of customer demographics and purchasing behaviour through customer segmentation.
