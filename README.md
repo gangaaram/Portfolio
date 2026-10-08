@@ -11,6 +11,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
+| 🛒 [Online Retail II Data Cleaning](https://github.com/gangaaram/ecommerce-data-cleaning-sql) | Data Cleaning, Data Quality, Data Transformation | This repo contains a data cleaning project of a dataset with 1M+ UK e-commerce transactions. Checked completeness, validity, duplicates, and whitespace issues, recovered missing product descriptions with CTEs and window functions, and built a single reproducible pipeline that produces an analysis-ready table. |
 | 💡 [SQL 50 LeetCode](https://github.com/gangaaram/sql-50-leet-code) | Data Analysis, Data Cleaning, Data Transformation | This repo contains my solutions to the SQL 50 LeetCode problems. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving. |
 
 ***
